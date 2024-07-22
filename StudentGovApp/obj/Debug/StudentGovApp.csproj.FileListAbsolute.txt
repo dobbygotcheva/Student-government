@@ -1,0 +1,37 @@
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\bin\Debug\StudentGovApp.exe.config
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\bin\Debug\StudentGovApp.exe
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\bin\Debug\StudentGovApp.pdb
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\bin\Debug\Intramular.dll
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\bin\Debug\Organization.dll
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\bin\Debug\Intramular.pdb
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\bin\Debug\Organization.pdb
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.csproj.CopyComplete
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.exe
+C:\Users\Admin\Desktop\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\StudentGovApp.exe.config
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\StudentGovApp.exe
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\StudentGovApp.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\ClubDLL.dll
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\FratSororityDLL.dll
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\IFunding.dll
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\Intramular.dll
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\Organization.dll
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\ClubDLL.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\FratSororityDLL.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\IFunding.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\Intramular.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\bin\Debug\Organization.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.csproj.AssemblyReference.cache
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.csproj.SuggestedBindingRedirects.cache
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.Properties.Resources.resources
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.csproj.GenerateResource.cache
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.csproj.CoreCompileInputs.cache
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.csproj.CopyComplete
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.exe
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 10-Week 10\Lab exercise\StudentGov App\StudentGovApp\StudentGovApp\obj\Debug\StudentGovApp.StudentGovApp.resources
